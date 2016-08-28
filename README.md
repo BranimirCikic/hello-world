@@ -2,5 +2,4 @@
 prvi repozitorijum subversionning
 
 pozdrav za sve
-ovo je ispravljeni readme fajl
-konacna verzija u edit formatu
+ovo je druga konacna dorada
